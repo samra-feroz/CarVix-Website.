@@ -1,2 +1,2 @@
 # CarVix-Website.
-A responsive car service website built with HTML , CSS and Tailwind CSS😊❤
+A modern car service website built with HTML , CSS and Tailwind CSS focusing on clean UI design😊❤
