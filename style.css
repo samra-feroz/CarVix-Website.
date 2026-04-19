@@ -1,0 +1,86 @@
+body{
+    overflow-x: hidden;
+}
+.logot{
+    color:white;
+    font-weight: bold;
+    font-size: 23px;
+}
+.logot:hover{
+    color: #A1278A;
+    font-size: 25px;
+}
+:hover.logo{
+    color:rgb(179, 126, 167);
+    font-size: 27px;
+}
+.text1{
+    font-size: 53px;
+
+}
+.text2{
+    color:#A1278A ;
+    font-size:30px;
+    font-weight: bold;
+}
+.pic{
+  width: 350px;
+  position: relative;
+  top:20px;
+  transition-property: all;
+  transition-duration: 1s;
+}
+.pic:hover{
+  width: 370px;
+  cursor: pointer;
+}
+.ho:hover{
+    color:#ad3e99;
+}
+.ab:hover{
+    color:#ad3e99;
+}
+.po:hover{
+    color:#ad3e99;
+}
+.fe:hover{
+    color:#ad3e99;
+}
+.co:hover{
+    color:#ad3e99;
+}
+.btns{
+    position: relative;
+    top: -50px;
+}
+.stats{
+    position:relative;
+    top:-30px;
+}
+.inte{
+    border-radius:15px;
+}
+.int{
+    border-radius: 15px;
+}
+.intext{
+    position:relative;
+    top:70px;
+    left:-15px;
+}
+.your{
+    font-size: 40px;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.your:hover{
+    color:#ad3e99;
+    font-size:37px ;
+      transition-property: all;
+  transition-duration: 500ms;
+  transition-delay: 100ms;
+  
+}
